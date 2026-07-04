@@ -93,7 +93,9 @@ The dataset contains resumes with the following columns:
 
 ## 👩‍💻 Author
 Fathima Safa MK 
+
 B.Tech ECE  
+
 Aspiring Engineer | Machine Learning Enthusiast  
 
 ---
