@@ -1,0 +1,6 @@
+Rank,ID,Category,Skills Found,Missing Skills
+1,83816738,INFORMATION-TECHNOLOGY,"['java', 'sql', 'html', 'css', 'javascript', 'git', 'communication']","['python', 'machine learning', 'data analysis']"
+2,33141415,CONSTRUCTION,"['java', 'sql', 'html', 'css', 'javascript']","['python', 'machine learning', 'data analysis', 'git', 'communication']"
+3,62994611,AGRICULTURE,"['python', 'java', 'sql', 'html', 'css', 'javascript', 'communication']","['machine learning', 'data analysis', 'git']"
+4,42156237,DIGITAL-MEDIA,"['python', 'java', 'sql', 'html', 'javascript', 'git']","['css', 'machine learning', 'data analysis', 'communication']"
+5,39247950,BANKING,"['java', 'sql', 'html', 'css', 'javascript', 'data analysis', 'communication']","['python', 'machine learning', 'git']"
